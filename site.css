@@ -1,0 +1,24 @@
+
+
+#Приветствие {
+position: absolute;
+top: 110px}
+
+#Приветствие2 {
+	position: absolute;
+	top: 80px
+}
+
+h1 {font-family: Impact; color: white}
+
+
+
+.Приветствие{
+background-image: url(img/img3.png);
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+margin: 0px;
+padding: 128px;
+
+}
